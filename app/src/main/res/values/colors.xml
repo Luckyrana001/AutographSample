@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#00adf5</color>
+    <color name="colorPrimaryDark">#0071a2</color>
+    <color name="colorAccent">#FF224D</color>
+
+    <color name="blue_title_color">#00B0FF</color>
+    <color name="black">#000000</color>
+    <color name="text_color">#4D5C61</color>
+
+    <color name="sky_blue">#54c7fc</color>
+    <color name="black_overlay">#66000000</color>
+
+
+    <color name="ytl_theme_text_color">#96D5E9</color>
+    <color name="ytl_theme_blue_color">#0099CC</color>
+    <color name="editor_border_grey">#BDBDBD</color>
+    <color name="username_bg_grey">#E1E4E5</color>
+    <color name="primaryColor" >#ffffff</color>
+    <color name="accentColor">#0099CC</color>
+    <color name="background_transparent">#0D000000</color>
+
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="packman_color">#F7931E</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    
+    <color name="greyTextColor">#595656</color>
+    <color name="greyBackgroundColor">#EEEEF0</color>
+    <color name="blackText">#000000</color>
+    <color name="light_red_bg">#FFECE7</color>
+    <color name="red_text">#FF0000</color>
+
+    <color name="section_startcolor">#aab7c0</color>
+    <color name="section_endcolor">#b9c3cc</color>
+    <color name="section_startcolor_selected">#c4b4c6</color>
+    <color name="section_endcolor_selected">#4f3e51</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#ff2570ba</color>
+    <color name="grey">#f7f7f7</color>
+    <color name="yellow_btn">#FFAB39</color>
+    <color name="light_gray">#E6E6E6</color>
+    <color name="table_header_grey">#EEEEF0</color>
+
+    <color name="ytl_bg_color">#00adf5</color>
+    <color name="ytl_selected_menu_color">#0071a2</color>
+    <color name="ytl_menu_text_color">#4D5C61</color>
+</resources>
